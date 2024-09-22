@@ -1,0 +1,6 @@
+employe fonction date_emploi nbEmployes: 6
+neil rozz caissier 03/12/2012
+tchenio ness stock 07/06/2020
+briere yann stock 05/08/2024
+victor timsit stock 03/02/2000
+Albert Reynolds caissier 09/06/2024

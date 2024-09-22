@@ -1,0 +1,15 @@
+Client	Points_fidelite		nbClients: 13
+Jean Dupont		17.000000
+Michel Martin		8.000000
+Pierre Duran		65.000000
+ness tchenio		141.000000
+rose cymbler		18.000000
+yann briere		0.000000
+matteo quintaneiro		0.000000
+matteo 0.000000		0.000000
+Neil Rozz		100.000000
+Alexandra Baron		500.000000
+Bastien Germin		21.000000
+Adam Nasroune		1050.000000
+Richard Gaumont 149.9000
+
