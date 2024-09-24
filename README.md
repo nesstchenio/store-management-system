@@ -2,7 +2,7 @@
 
 ## Language
 
-The project is entirely written in C.
+Programming language : C
 
 ## Architecture
 
